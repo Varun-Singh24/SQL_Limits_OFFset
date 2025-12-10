@@ -1,9 +1,8 @@
-# SQL_Limits_OFFset
+# 📌 SQL: LIMIT & OFFSET Queries
 
-# 📌 LIMIT & OFFSET Queries
----
 This repository contains an SQL script demonstrating the usage of **LIMIT** and **OFFSET** in MySQL to control the number of rows returned in query results.  
 It uses the existing `employees` database and performs multiple queries to illustrate pagination and controlled data retrieval.
+
 ---
 
 ## 📂 File Included
@@ -22,9 +21,7 @@ The script includes:
 ```sql
 USE employees;
 SHOW TABLES;
-SELECT * FROM employees;
-````
-
+SELECT * FROM employees; 
 ---
 
 ## 🚀 LIMIT Usage Examples
